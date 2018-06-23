@@ -21,7 +21,6 @@
         android:layout_height="230sp"
         android:columnCount="4"
         android:rowCount="4"
-        android:gravity="center"
         android:orientation="vertical"
         >
         <!--Columna uno-->
